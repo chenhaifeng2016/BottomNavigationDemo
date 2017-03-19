@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/item1"
+        android:checked="true"
+        android:icon="@drawable/ic_content_copy_24dp"
+        android:title="拷贝"/>
+    <item
+        android:id="@+id/item2"
+        android:icon="@drawable/ic_add_24dp"
+        android:title="添加"/>
+    <item
+        android:id="@+id/item3"
+        android:icon="@drawable/ic_link_24dp"
+        android:title="链接"/>
+</menu>
